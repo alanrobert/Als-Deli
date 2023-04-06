@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorised &#8211; The Butty Bar</title>
-	<atom:link href="http://localhost/the-butty-bar/category/uncategorised/feed/?simply_static_page=311" rel="self" type="application/rss+xml" />
-	<link>http://https://alanrobert.github.io/the-butty-bar-static</link>
+	<atom:link href="http://localhost/the-butty-bar/category/uncategorised/feed/?simply_static_page=435" rel="self" type="application/rss+xml" />
+	<link>http://alanrobert.github.io/the-butty-bar-static</link>
 	<description></description>
 	<lastBuildDate>Thu, 06 Apr 2023 16:52:07 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://https://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/</link>
-					<comments>http://https://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/#comments</comments>
+		<link>http://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/</link>
+					<comments>http://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[alan]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 16:52:07 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">http://https://alanrobert.github.io/the-butty-bar-static/?p=1</guid>
+		<guid isPermaLink="false">http://alanrobert.github.io/the-butty-bar-static/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

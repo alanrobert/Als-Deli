@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/the-butty-bar/2023/04/06/hello-world/feed/?simply_static_page=283" rel="self" type="application/rss+xml" />
-	<link>http://https://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/</link>
+	<atom:link href="http://localhost/the-butty-bar/2023/04/06/hello-world/feed/?simply_static_page=407" rel="self" type="application/rss+xml" />
+	<link>http://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 06 Apr 2023 16:52:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://https://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/#comment-1</link>
+		<link>http://alanrobert.github.io/the-butty-bar-static/2023/04/06/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 16:52:07 +0000</pubDate>
-		<guid isPermaLink="false">http://https://alanrobert.github.io/the-butty-bar-static/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://alanrobert.github.io/the-butty-bar-static/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
